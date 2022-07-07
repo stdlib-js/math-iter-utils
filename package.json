@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-iter-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Math utility iterators.",
   "license": "Apache-2.0",
   "author": {
