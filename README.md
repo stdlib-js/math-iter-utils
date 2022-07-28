@@ -63,6 +63,12 @@ The namespace contains the following interfaces:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`iterContinuedFraction( iterator[, options] )`][@stdlib/math/iter/utils/continued-fraction]</span><span class="delimiter">: </span><span class="description">evaluate the terms of a continued fraction.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -135,8 +141,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-iter-utils.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-iter-utils
 
-[test-image]: https://github.com/stdlib-js/math-iter-utils/actions/workflows/test.yml/badge.svg?branch=v0.0.1
-[test-url]: https://github.com/stdlib-js/math-iter-utils/actions/workflows/test.yml?query=branch:v0.0.1
+[test-image]: https://github.com/stdlib-js/math-iter-utils/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/math-iter-utils/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-iter-utils/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-iter-utils?branch=main
@@ -164,6 +170,12 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-iter-utils/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-iter-utils/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/math/iter/utils/continued-fraction]: https://github.com/stdlib-js/math-iter-utils-continued-fraction
+
+<!-- </toc-links> -->
 
 </section>
 
