@@ -2,6 +2,54 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-09-29)
+
+<section class="features">
+
+### Features
+
+-   [`e32d84e`](https://github.com/stdlib-js/stdlib/commit/e32d84ee9a4de85373a4ca00013d3f5ac79b5497) - update `math/iter/utils` TypeScript declarations
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b7c2031`](https://github.com/stdlib-js/stdlib/commit/b7c20312491bdcf54ffc681e5fe489b9ba3d059c) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
+-   [`e32d84e`](https://github.com/stdlib-js/stdlib/commit/e32d84ee9a4de85373a4ca00013d3f5ac79b5497) - **feat:** update `math/iter/utils` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`af59fdf`](https://github.com/stdlib-js/stdlib/commit/af59fdfb5f2aae5ced449bd6ccddc012047f0089) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`65ddf8d`](https://github.com/stdlib-js/stdlib/commit/65ddf8d4d51ccfda52d1c5a06408e43fb386c27e) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
