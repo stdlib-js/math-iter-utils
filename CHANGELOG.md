@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-29)
+## Unreleased (2025-12-06)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e7fbc24`](https://github.com/stdlib-js/stdlib/commit/e7fbc24f9fb918a92f7e9118fbe9fed8573117c8) - **docs:** fix example code in TSDoc declaration _(by Philipp Burckhardt)_
 -   [`b7c2031`](https://github.com/stdlib-js/stdlib/commit/b7c20312491bdcf54ffc681e5fe489b9ba3d059c) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
 -   [`e32d84e`](https://github.com/stdlib-js/stdlib/commit/e32d84ee9a4de85373a4ca00013d3f5ac79b5497) - **feat:** update `math/iter/utils` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`af59fdf`](https://github.com/stdlib-js/stdlib/commit/af59fdfb5f2aae5ced449bd6ccddc012047f0089) - **chore:** minor clean-up _(by Philipp Burckhardt)_
