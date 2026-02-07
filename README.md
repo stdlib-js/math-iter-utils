@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-utils@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-utils@v0.3.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { iterContinuedFraction } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-utils@esm/index.mjs';
+import { iterContinuedFraction } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-utils@v0.3.1-esm/index.mjs';
 ```
 
 #### ns
@@ -91,7 +91,7 @@ The namespace contains the following interfaces:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-utils@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-utils@v0.3.1-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
