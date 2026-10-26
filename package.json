@@ -42,6 +42,7 @@
   "devDependencies": {
     "@stdlib/array-to-iterator": "^0.2.3",
     "@stdlib/assert-has-own-property": "^0.2.3",
+    "@stdlib/assert-is-almost-same-value": "^0.1.1",
     "@stdlib/assert-is-finite": "^0.2.3",
     "@stdlib/assert-is-iterator-like": "^0.2.3",
     "@stdlib/assert-is-nonnegative-integer": "^0.2.3",
